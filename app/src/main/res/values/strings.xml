@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inspiring Prints</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vizitki">Vizitki</string>
+    <string name="title_activity_flaeru">Flaeru</string>
+    <string name="title_activity_plakatu">Plakatu</string>
+    <string name="title_activity_chashka">Chashka</string>
+    <string name="title_activity_futbolka">Futbolka</string>
+    <string name="title_activity_pazlu">Pazlu</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_my">MyActivity</string>
+
+</resources>
